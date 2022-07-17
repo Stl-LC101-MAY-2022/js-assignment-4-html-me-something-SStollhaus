@@ -4,3 +4,9 @@ body { margin: 8px;
 #mainHeading {
 color: red;
 }
+footer {
+    text-align: center;
+}
+.funParagraph{
+    color: green;
+}
