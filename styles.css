@@ -3,10 +3,11 @@ body { margin: 8px;
 }
 #mainHeading {
 color: red;
-align-items: center;
+text-align: center;
 }
 footer {
     text-align: center;
+    color:purple;
 }
 .funParagraph{
     color: green;
